@@ -4,7 +4,7 @@ Python implementation for universal superconducting transition temperature (Tc) 
 
 ## Usage Workflow
 
-### Step 1: Feature Engineering
+### Step : Feature Engineering
 Run first to generate physics-informed (PI) and structural descriptors:
 ```bash
 python FEATURES_(PI_&_structural).py --input_data ./data/SupeCon.csv
