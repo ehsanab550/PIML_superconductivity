@@ -1,5 +1,5 @@
 # SuperConNet: Physics-Informed Superconductor Prediction
-<img width="333" height="331" alt="image" src="https://github.com/user-attachments/assets/5587fd6d-e8ac-450f-bc12-ec981df72d10" />
+![Uploading nano-banana-2025-11-29T07-31-58.png…]()
 
 Python implementation for universal superconducting transition temperature (Tc) prediction. Integrates physics-informed descriptors with ML classification/regression to achieve high-accuracy Tc forecasting across material families. Includes SHAP interpretability for quantum mechanism analysis.
 
