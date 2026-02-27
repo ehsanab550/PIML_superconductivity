@@ -9,3 +9,24 @@ Python implementation for universal superconducting transition temperature (Tc) 
 Run first to generate physics-informed (PI) and structural descriptors:
 ```bash
 python FEATURES_(PI_&_structural).py --input_data ./data/SupeCon.csv
+
+## 📝 Citation
+If you use this code or data in your research, please cite the following paper:
+
+> Alibagheri, Ehsan, et al. "A physics-informed machine learning framework for unified prediction of superconducting transition temperatures." *Materials Today Physics* 60 (2026): 101971. DOI: [10.1016/j.mtphys.2025.101971](https://doi.org/10.1016/j.mtphys.2025.101971)
+>
+> BibTeX entry:
+> ```bibtex
+> @article{alibagheri2026,
+>   title={A physics-informed machine learning framework for unified prediction of superconducting transition temperatures},
+>   author={Alibagheri, Ehsan, et al.},
+>   journal={Materials Today Physics},
+>   year={2026},
+>   doi={10.1016/j.mtphys.2025.101971}
+> }
+> ```
+
+### 📄 License
+This project is available for academic use. Please cite the paper if you use the code. For commercial use, please contact the author.
+
+For questions or issues, please open an issue on GitHub.
