@@ -9,7 +9,7 @@ Python implementation for universal superconducting transition temperature (Tc) 
 Run first to generate physics-informed (PI) and structural descriptors:
 ```bash
 python FEATURES_(PI_&_structural).py --input_data ./data/SupeCon.csv
-
+```
 ## 📝 Citation
 If you use this code or data in your research, please cite the following paper:
 
